@@ -1,0 +1,1 @@
+start java -jar selenium-server-standalone-2.45.0.jar -browser browserName=chrome platform=WINDOWS, ensureCleanSession=true, javascriptEnabled=true, acceptSslCerts=true, ignoreProtectedModeSettings=true, ignoreZoomSetting=true, takesScreenshot=true -Dwebdriver.chrome.driver="C:\Users\eldo\Desktop\protractor_simpletest\chromedriver.exe"
